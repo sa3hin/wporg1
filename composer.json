@@ -1,6 +1,6 @@
 {
     "name": "wporg/wporg-parent-2021",
-    "version": "21",
+    "version": "dev-build",
     "description": "PHP Package Test",
     "type": "library",
     "license": "MIT",
